@@ -1,0 +1,25 @@
+{
+  "name": "@sayhellogmbh/js-scrollfade",
+  "version": "1.0.0",
+  "description": "BLUBB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayHelloGmbH/js-scrollfade.git"
+  },
+  "keywords": [
+    "scroll",
+    "fade",
+    "sayhellogmbh",
+    "jquery"
+  ],
+  "author": "markhowellsmead",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SayHelloGmbH/js-scrollfade/issues"
+  },
+  "homepage": "https://github.com/SayHelloGmbH/js-scrollfade#readme"
+}
